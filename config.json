@@ -1,0 +1,7 @@
+{
+  "server": "arabi.gay",
+  "home-timeline-length": 200,
+  "max-followings": 80,
+  "max-follow-requests": 80,
+  "from-notifications": 1
+}
